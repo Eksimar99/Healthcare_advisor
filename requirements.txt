@@ -1,5 +1,5 @@
 streamlit
-gooogle-generativeai
+google-generativeai
 pandas
 python-dotenv
 
